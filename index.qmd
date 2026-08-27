@@ -1,5 +1,5 @@
 ---
-title: "Reflections on Open Science Framework guidelines"
+title: "Reflections on Open Science Framework (OSF) guidelines"
 Subtitle: "Social Stratification Research Seminar, 2026"
 author: "Ben Matthews"
 format:
@@ -13,7 +13,7 @@ format:
     code-overflow: wrap
     code-annotations: hover
     code-copy: hover
-    chalkboard: true
+    chalkboard: false
 title-slide-attributes:
   data-background-color: "#006938"  
 bibliography: data-repositories-bibliography.bib
@@ -33,7 +33,7 @@ bibliography: data-repositories-bibliography.bib
 ## What about code?
 - [GitHub](https://github.com/) will still work if you like that sort of thing
 - Other 'the cloud is just someone else's computer' options exist like [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org) and [Codeberg.org](https://codeberg.org/)
-- You might be able to convince your institution to host your code a'la [camsis.stir.ac.uk](https://www.camsis.stir.ac.uk/downloads/CAMSIS_downloads.html)
+- Your institution might host your code _à la_ [camsis.stir.ac.uk](https://www.camsis.stir.ac.uk/downloads/CAMSIS_downloads.html)
 - You can pay a few pounds a month to host your own website?
 
 ## What about code for peer review?
@@ -46,9 +46,6 @@ bibliography: data-repositories-bibliography.bib
 - This infrastructure has a financial cost that someone needs to pay
 - You are making a bet about who will be willing to pay for this hosting in the future
 - [Good luck with that](https://www.bbc.co.uk/future/article/20250422-usa-scientists-race-to-save-climate-data-before-its-deleted-by-the-trump-administration) [@DesperateRushDecades2025]
-
-:::aside:::
-Alternatively, IBGYBG
 
 ## What are our obligations to future researchers?
 - The standard DataSTORRE guarantee is to store data for ten years. Do we need our data to be available longer than this?
